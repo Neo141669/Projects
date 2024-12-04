@@ -43,12 +43,12 @@ This MATLAB project calculates the design parameters for a three-phase induction
 1. Install MATLAB (tested on version R2020a and above).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/induction-motor-design.git
+   git clone https://github.com/your-username/Polyphase_induction_motor.git
    ```
-3. Open `induction_motor_design.m` in MATLAB.
+3. Open `Polyphase_induction_motor.m` in MATLAB.
 4. Run the script by typing:
    ```matlab
-   run induction_motor_design
+   run Polyphase_induction_motor
    ```
 
 ## **Results**
